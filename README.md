@@ -1,4 +1,4 @@
-# HR Dashboard – Recruitment Management System For University
+# HR Dashboard – Recruitment Management System For A University
 
 ## Overview
 The HR Dashboard is a web-based recruitment management platform designed to modernize and streamline the candidate screening process for a university Human Resources department.  
@@ -28,9 +28,6 @@ The system centralizes candidate data, document management, interview tracking, 
 - Integrated Two-Factor Authentication (TOTP)
 - Implemented AI-based candidate ranking component
 - Contributed to UI improvements and database structure design
-
-## System Architecture
-*(Insert architecture diagram screenshot here)*
 
 ## Installation
 ```bash
